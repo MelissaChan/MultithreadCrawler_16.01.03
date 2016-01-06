@@ -1,0 +1,5 @@
+Web depth:1   Filepath: web/web0.htm   url:http://daily.zhihu.com/
+
+Web depth:2   Filepath: web/web1.htm   url:http://zhstatic.zhihu.com/pkg/store/daily/zhihu-daily-zhihu-2.5.3(390).apk
+
+
